@@ -15,5 +15,8 @@ Version: 1.000 (from about 2016)
 * Add 'landing platform' to glyphs at 0xE0B8, 0xE0BA, 0xE0BC, and 0xE0BE
 * Add 'landing platform' to glyphs at 0xE0C0 and 0xE0C2
 * Change version of font to 1.200
+* Replace 0xE0D6 and 0xE0D7 with inverse-cutout arrow variants (from https://github.com/vothanhdat/powerline-extra-symbols)
+* Add rounded-rectangle separator tiles at 0xE0D8 to 0xE0DD (from https://github.com/vothanhdat/powerline-extra-symbols)
+* Change version of font to 1.300
 
-Version: 1.200 (our version)
+Version: 1.300 (our version)
